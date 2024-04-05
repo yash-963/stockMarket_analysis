@@ -1,0 +1,53 @@
+main {
+    background: #040462;
+    color: #fff;
+}
+
+.stocksListButton {
+    background: #3636d7;
+    border-radius: 5px;
+    padding: 6px;
+    width: 80px;
+    margin-right: 10px;
+}
+
+.stocksListButton:hover {
+    background: rgb(5, 5, 59);
+}
+
+#stockList button {
+    color: #fff;
+}
+
+.profit {
+    margin-left: 10px;
+}
+
+.green {
+    color: greenyellow;
+}
+
+.red {
+    color: red;
+}
+
+.value {
+    margin-left: 10px;
+}
+
+.fontChange {
+    font-size: 12px;
+}
+
+.buttonMainDiv {
+    position: relative;
+    top: -40px;
+    width: fit-content;
+    margin: auto;
+}
+
+.buttonMainDiv button {
+    background: blue;
+    color: #fff;
+    border-radius: 20px;
+}
